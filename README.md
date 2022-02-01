@@ -60,7 +60,7 @@ Using plots to find relations between the features.
 - Most famous restaurant chains in Bengaluru
 
 ## Result: 
-- I have got the best accuracy for Extra tree regressor.
+- Got the best accuracy for Extra tree regressor.
 - EDA was done sucessfully and various insights were dwarn shown in notebook.
 - Libraries used Matplotlib, Seaborn, Pandas, Numpy
 [Click here to see Kaggle Notebook](https://www.kaggle.com/ashish12350/zomato)
